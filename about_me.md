@@ -2,8 +2,7 @@
 
 🚀 **Data Engineer | Abinitio | Cloud (GCP) | ETL Developer | Teradata | Unix | Python | AI & ML | Data and Analytics Developer at _VOIS | GCPCX2Python | Automation | Backend Development**
  
-I learnig to build scalable data pipelines, cloud-native applications, and automation solutions using **Python, GCP, SQL, Java**, and modern backend technologies.  
-Passionate about **data transformation**, **workflow automation**, and **production-grade engineering**.
+I learnig to build scalable data pipelines, cloud-native applications, and automation solutions using **Python, GCP, SQL, Java**, and modern backend technologies. Passionate about **data transformation**, **workflow automation**, and **production-grade engineering**.
  
 ---
  
