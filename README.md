@@ -1,3 +1,4 @@
+![GitHub Stats](https://github-readme-stats.vercel.app)
 ## Hi there 👋 I'm Dhanraj
 
 🚀 **Data Engineer | Abinitio | Cloud (GCP) | ETL Developer | Teradata | Unix | Python | AI & ML | Data and Analytics Developer at _VOIS | GCPCX2Python | Automation | Backend Development**
